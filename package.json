@@ -1,0 +1,13 @@
+{
+  "name": "hello-bham",
+  "version": "1.0.0",
+  "description": "A beautiful, responsive static website for Hello Bakery Birmingham, featuring fresh pastries, cakes, cookies, and small batch ice creams.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
